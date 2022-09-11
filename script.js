@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 let burgerBtn = document.querySelector('.burger__btn');
 
 let burgerMenu = document.querySelector('.burger__menu');
