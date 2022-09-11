@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+*, *::before, *::after{box-sizing: border-box;}
+a:focus, input, a:active{outline:none;}
+nav, footer, header, aside{display: block;}
+html,body{height:100%; width:100%; font-size: 100%; list-style: none; margin:0;}
+input, button,textarea{font-family:inherit;}
+button{cursor:pointer}
+
+button::-moz-focus-inner{padding: 0; margin:0;}
+
+a, a:visited{text-decoration: none;}
+ul, li{list-style:none; padding: 0; margin:0}
+img{vertical-align: top; object-fit: cover;}
+h1, h2, h3,h4,h5,h6{font-size:inherit; font-weight:inherit; margin: 0; padding:0}
+=======
+*, *::before, *::after{box-sizing: border-box;}
+a:focus, input, a:active{outline:none;}
+nav, footer, header, aside{display: block;}
+html,body{height:100%; width:100%; font-size: 100%; list-style: none; margin:0;}
+input, button,textarea{font-family:inherit;}
+button{cursor:pointer}
+
+button::-moz-focus-inner{padding: 0; margin:0;}
+
+a, a:visited{text-decoration: none;}
+ul, li{list-style:none; padding: 0; margin:0}
+img{vertical-align: top; object-fit: cover;}
+h1, h2, h3,h4,h5,h6{font-size:inherit; font-weight:inherit; margin: 0; padding:0}
+>>>>>>> 1b288fb4deee45a69d98493826b9d384e14dd474
+p{margin: 0; padding: 0;}
